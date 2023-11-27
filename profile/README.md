@@ -1,9 +1,31 @@
 # AutoVM-WhModules-Reseller
 AutoVM Module in WHMCS for Reseller Plan
-<div id="header" align="center">
-  <img src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/home_banner_img.svg" width="100"/>
-</div>
-Use Whmcs as CRM for AUTOVM under Reseller user plan.
+<div class="container-xl d-lg-flex align-items-center flex-row-reverse pt-4 pt-lg-0 pt-xxl-4 pb-5 pb-lg-4 pb-xxl-5">
+                    <div class="col home-banner-img">
+                    </div>
+                    <div class="col home-banner-txt">
+                        <div class="text-white">
+                            Above the oceans
+                        </div>
+                        <h2 class="text-white py-4">
+                            Future-proof your business <br>
+                            <span>by moving to <span class="text-blue-light">AutoVM</span></span>
+                        </h2>
+                        <p class="text-white opacity-50">
+                            AutoVM is a management and automation solution that simplifies virtualization systems through a simple control panel. This platform provides a complete IAAS management platform for hosting and Cloud provider corporations.
+                        </p>
+                        <div class="py-4">
+                            <a class="btn btn-light btn-lg text-primary my-3" href="https://autovm.net/demo/">
+                                <img width="24px" alt="" data-src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/export.svg" class="m-2 align-middle lazyloaded" src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/export.svg"><noscript><img src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/export.svg" width="24px" class="m-2 align-middle" alt="" /></noscript>
+                                <span class="align-middle">Online demo</span>
+                            </a>
+                            <a class="btn btn-primary btn-lg my-3 mx-4" href="https://autovm.net/feature-tour">
+                                <img width="24px" alt="" data-src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/bubble.svg" class="m-2 align-middle lazyloaded" src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/bubble.svg"><noscript><img src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/bubble.svg" width="24px" class="m-2 align-middle" alt=""></noscript>
+                                <span class="align-middle">Feature Tour</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>Use Whmcs as CRM for AUTOVM under Reseller user plan.
 Reseller User can sell their plans under one AUTOVM licence.
 <br><br>
 
