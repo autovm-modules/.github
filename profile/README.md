@@ -1,7 +1,7 @@
 # AutoVM-WhModules-Reseller
 AutoVM Module in WHMCS for Reseller Plan
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/home_banner_img.svg)" width="100"/>
+  <img src="https://autovm.net/wp-content/themes/autovm-theme/assets/images/svg/home_banner_img.svg" width="100"/>
 </div>
 Use Whmcs as CRM for AUTOVM under Reseller user plan.
 Reseller User can sell their plans under one AUTOVM licence.
