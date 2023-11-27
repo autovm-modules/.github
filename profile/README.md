@@ -1,5 +1,4 @@
 # AutoVM Modules
-https://github-readme-stats.vercel.app/api?username=autovm-modules&show_icons=true&theme=transparent
 AutoVM Module designed for WHMCS and WiseCP
 
 <p dir="auto">
