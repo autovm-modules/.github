@@ -2,7 +2,7 @@
 AutoVM Module designed for WHMCS and WiseCP
 
 <p dir="auto">
-These repo containes all needed code to work with AutoVM from WHMCS or WiseCP. Almost six modules are developing for AutoVM, all modules are compatible with WHMCS 8.0 Or WiseCP. For more information to know how to use this modules please look at our document here  (<a href="https://autovm.net/docs/1-deploy-autovm/" rel="nofollow">https://autovm.net/docs/1-deploy-autovm/</a>)</p>
+These repo containes all needed code to work with AutoVM from WHMCS or WiseCP. Almost six modules are developing for AutoVM, all modules are compatible with WHMCS 8.0 Or WiseCP. For more information to know how to use this modules please look at our document here  (<a href="https://autovm.net/docs/get-started" rel="nofollow">https://autovm.net/docs/get-started</a>)</p>
 
 
 <div>
